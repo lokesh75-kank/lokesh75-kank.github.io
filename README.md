@@ -27,4 +27,11 @@ The data set provide aims at building a model of housing prices to predict media
 The reason why it interests me is, this data set is dealing with real world problem. The housing prices in california is increasing day by day and soon its seems not not going to be affordable for middle income family. 
 This data set helps analyse the median household value and pridict the actual house price for all districts in california.
 
+# Data Science book
 
+<img src= "https://user-images.githubusercontent.com/85188079/187558283-d5222003-9206-41b6-ad02-c2e36627ff50.png" width="200" height="300">
+
+## Introduction to Metadata - Murtha Baca
+
+The reason this books attracks me is its meta data itself !
+It has perfect understanding of how a meta data should be used as preface as it is a data of other context. It touched upon its social tagging, web communication inportance and so on.
