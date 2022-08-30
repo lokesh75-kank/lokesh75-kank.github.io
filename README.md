@@ -29,7 +29,7 @@ This data set helps analyse the median household value and pridict the actual ho
 
 # Data Science book
 
-<img src= "https://user-images.githubusercontent.com/85188079/187558283-d5222003-9206-41b6-ad02-c2e36627ff50.png" width="200" height="300">
+<img src= "https://user-images.githubusercontent.com/85188079/187558283-d5222003-9206-41b6-ad02-c2e36627ff50.png" width="500" height="300">
 
 ## Introduction to Metadata - Murtha Baca
 
