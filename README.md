@@ -24,4 +24,7 @@ Author dataset description : "SHIBU MOHAPATRA" on Kaggle.
 Problem Objective:
 The data set provide aims at building a model of housing prices to predict median house values in California using the provided dataset
 
+The reason why it interests me is, this data set is dealing with real world problem. The housing prices in california is increasing day by day and soon its seems not not going to be affordable for middle income family. 
+This data set helps analyse the median household value and pridict the actual house price for all districts in california.
+
 
