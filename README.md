@@ -35,3 +35,6 @@ This data set helps analyse the median household value and pridict the actual ho
 
 The reason this books attracks me is its meta data itself !
 It has perfect understanding of how a meta data should be used as preface as it is a data of other context. It touched upon its social tagging, web communication inportance and so on.
+
+url to online book:
+https://www.getty.edu/publications/intrometadata/
