@@ -33,7 +33,7 @@ This data set helps analyse the median household value and pridict the actual ho
 
 ## Introduction to Metadata - Murtha Baca
 
-The reason this books attracked me dive deep into it, is its meta data itself! It was first came in hands of audience in 1998, with its roles, types and characteristics which made place in heart of audience. It has perfect understanding of how a meta data should be used as preface. Its like a data helping other data. It touched upon its social tagging, web communication inportance and so on. The chapters in books are perfect blend of its application,uses and evolution as per need.
+The reason this books attracked me dive deep into it, is its meta data itself! It was first came in hands of audience in 1998, with its roles, types and characteristics which made place in heart of audience. It has perfect understanding of how a meta data should be used as preface. Its like a data helping other data. It touched upon its social tagging, web communication importance and so on. The chapters in books are perfect blend of its application,uses and evolution as per need.
 
 url to online book:
 https://www.getty.edu/publications/intrometadata/
